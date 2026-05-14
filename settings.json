@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "theliminals.mcsh.io",
+    "ip": "15.235.164.31",
     "port": 12675,
-    "version": "",
+    "version": "1.20.1",
     "try-creative": false
   },
   "position": {
